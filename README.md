@@ -40,6 +40,10 @@ Handles loading states and errors gracefully.
 
 https://github.com/user-attachments/assets/361c1000-4dd4-43f6-a60e-1b57b10387cf
 
+<img width="563" alt="Screenshot 2025-01-02 at 16 10 49" src="https://github.com/user-attachments/assets/f4a3f210-b066-42a0-b66b-6d17cff9fa63" />
+<img width="563" alt="Screenshot 2025-01-02 at 16 10 33" src="https://github.com/user-attachments/assets/f8b16672-7657-4335-a643-835627d05cae" />
+<img width="563" alt="Screenshot 2025-01-02 at 16 09 31" src="https://github.com/user-attachments/assets/7ed74177-3ad1-4dea-b53f-e49bb4d9f459" />
+<img width="563" alt="Screenshot 2025-01-02 at 16 11 25" src="https://github.com/user-attachments/assets/b009b767-2b27-4d6d-b7ce-a208bbabd14d" />
 
 
 https://github.com/user-attachments/assets/e88c0c76-cbe2-4c07-a227-cbd199cf11bf
